@@ -1,5 +1,7 @@
 DataSci 112: Principles of Data Science
+
 Stanford University
+
 Summer 2024
 
 ## Project Proposal
