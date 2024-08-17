@@ -17,7 +17,7 @@ Team members:
 **Discussion Section:** 03
 
 **Datasets Description:** We will use the "International Measures of Schooling Years and Schooling Quality 1960-1990" dataset, sourced from the World Bank Microdata Library. This dataset includes various measures of educational attainment and quality across different countries over a 30-year period. Key variables include percentages of the population with different levels of schooling, average years of schooling, pupil-teacher ratios, government expenditure on education, and international test scores in math, science, and reading.
-Link to the dataset # TODO add link
+Link to the dataset
 
 Questions you are asking/analyses you want to perform:
 - **Question:** Can we predict the average years of schooling based on early education features, such as teacher-pupil ratios in primary education, the percentage of the population who have attained and completed primary education, year, and continent?
