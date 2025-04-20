@@ -1,7 +1,6 @@
 
   README
 
-
        The diskette contains the data set on educational attainment at various
   levels for the male and female population. The data set includes estimates
   of educational attainment for the population by age - over age 15 and over
@@ -105,8 +104,6 @@ Please note that the data and description on the measures of schooling quality a
 
   HYRF      : Average years of higher schooling in the female population.
   ____________________________________________________________________________
-
-  
 
                                   COUNTRY LIST
                                   -------------
@@ -268,4 +265,3 @@ Please note that the data and description on the measures of schooling quality a
       154                                 U.S.S.R.
       155                                 Cuba
       156            ALB                  Albania
-
